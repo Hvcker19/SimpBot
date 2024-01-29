@@ -1,0 +1,31 @@
+{
+  "customReactions": {
+    "awesome": "🚀",
+    "love": "❤️",
+    "hahaha": "☺️",
+    "pakyu": "☺️",
+    "bobo": "☺️",
+    "gago": "☺️",
+    "haha": "😂",
+    "tangina": "☺️",
+    "mahal": "😍",
+    "love": "😍",
+    "lab": "😍",
+    "sakit": "😢",
+    "peyn": "😢",
+    "pain": "😢",
+    "eve": "😭",
+    "morning": "😭",
+    "afternoon": "😭",
+    "evening": "😭",
+    "ha": "😂"
+  },
+  "autoResponseRules": {
+    "hello": "Hi there!",
+    "bye": "Goodbye!",
+    "tang ina mo": "Tang Ina mo Din",
+    "goodevening": "Goodevening din",
+    "maayung gabie": "Maayung Gabie sad",
+    "maayung buntag": "maayung buntad migo"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "prefix": "/",
+  "encryptSt": "true",
+  "adminName": "Rony L. Borja",
+  "adminID": "10001606201909",
+  "botName": "Heruko_Bot",
+  "echoTheme": {
+    "echotitle": "EchoBot",
+    "themeColor": "IndigoEcho",
+    "colorTeam": "BlueEcho,YellowEcho, CyanEcho, IndigoEcho"
+  },
+  "options": {
+    "forceLogin": false,
+    "listenEvents": true,
+    "autoMarkDelivery": false,
+    "autoMarkRead": false,
+    "logLevel": "error",
+    "selfListen": false,
+    "online": true,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "presenceStatus": "online",
+    "commandCooldowns": {
+      "myCommand": 60, 
+      "otherCommand": 30
+    }
+  }
+}
